@@ -81,7 +81,6 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    content: "";
     background-size: 2px 2px;
     position: absolute;
     top: 0;
@@ -677,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
