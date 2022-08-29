@@ -103,7 +103,7 @@ sub {
 }
 
 img {
-    border: 0
+    border: 0;
 }
 
 svg:not(:root) {
@@ -2066,7 +2066,9 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    width: 320px;
+    height: 320px;
 }
 
 .col-xs-1,
