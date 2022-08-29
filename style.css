@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color:white;
 }
 
 .d-bloc .panel button:hover,
@@ -737,6 +737,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size:20px;
 }
 
 .portfolio-thumb {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
