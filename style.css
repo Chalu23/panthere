@@ -6,10 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.img__portofolio{
-    height: 320px;
-    width: 200px;
-}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -739,7 +736,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-size:20px;
+    font-size:18px;
 }
 
 .portfolio-thumb {
