@@ -731,10 +731,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
-
 h4 {
     color: #333333!important;
 }
@@ -1057,7 +1053,7 @@ h4 {
 .black ,.icon-md{
     color: #000000!important;
 }
-.bloc__title-h2{
+#bloc__title-h2{
     max-width: 62rem;
     margin: auto;
 }
